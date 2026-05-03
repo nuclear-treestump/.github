@@ -1,6 +1,6 @@
 # Nuclear Treestump Technologies
 
-> v1.0 - Last Updated: 2026-05-03
+> v1.1 - Last Updated: 2026-05-03
  
 Python tooling. Mostly supply chain security, with a few research and side projects.
  
@@ -63,4 +63,10 @@ A spiritual successor to KeyCAD. Aiming to be the simplest possible CAD tool for
  
 Active work is in the security tooling. If you arrived here through a security incident, an audit, or curiosity about pydepgate, that is where to start. Research and other projects move at their own pace.
  
-Issues and pull requests are welcome on individual project repositories. For security reports related to a specific tool, open an issue on that repository or email the address above.
+Issues and pull requests are welcome on individual project repositories. For security reports related to a specific tool, follow the SECURITY.md for the repository. If a SECURITY.md file is not on the repository, please email `ikari@nuclear-treestump.com` with your concerns.
+
+---
+
+## Changelog
+
+2026-05-03 16:35 ET - Fixed security-related issue instruction.
